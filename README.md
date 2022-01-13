@@ -9,20 +9,20 @@
  - [7, 1, 2, 9, 7, 2, 1] → 2 <br />
 
 ## Path
-cd $GOPATH/src/edenfarm-be-jiddyabd
-go mod tidy
+cd $GOPATH/src/edenfarm-be-jiddyabd <br />
+go mod tidy <br />
 go run .
 
 ## Input Example
-Length 
-6
-Value
-3
-1
-2
-5
-2
-1
+Length <br />
+6 <br />
+Value <br />
+3 <br />
+1 <br />
+2 <br />
+5 <br />
+2 <br />
+1 <br />
 
 ## Output Example
 Result : 2
