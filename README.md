@@ -11,6 +11,7 @@
 ## Path
 cd $GOPATH/src/edenfarm-be-jiddyabd <br />
 go mod tidy <br />
+go test <br />
 go run .
 
 ## Input Example
